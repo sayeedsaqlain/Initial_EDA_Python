@@ -2,15 +2,15 @@
 
 In this project, I will be working with transactional data from an online retail store. The dataset contains information about customer purchases, including product details, quantities, prices, and timestamps. The task is to explore, clean and analyze this dataset to gain insights into the store's sales trends, customer behavior, and popular products.
 
-Viewing Data
+### Exploration
 
 <img width="727" alt="image" src="https://github.com/sayeedsaqlain/Initial_EDA_Python/assets/41228969/e2e48e65-dad1-4dd0-8371-c0e9fba89006">
 
-Dealing with missing, duplicate and error entries
+### Dealing with missing, duplicate and error entries
 
 <img width="468" alt="image" src="https://github.com/sayeedsaqlain/Initial_EDA_Python/assets/41228969/521423aa-7a68-454c-b6f6-a6abc32615ec">
 
-
+### Visual Charts
 
 <img width="579" alt="image" src="https://github.com/sayeedsaqlain/Initial_EDA_Python/assets/41228969/14a61785-82fe-4233-9c4c-49e9e845d28d">
 
@@ -28,7 +28,7 @@ Dealing with missing, duplicate and error entries
 
 
 
-## Conclusion
+### Conclusion
 
 In a conclusive summary, we note that United Kingdom has the most buyers followed by Germany. The end of year sales peaks in months such as October, November and December. The daily sales were highest on Wednesday, followed by Sunday and Monday.
 
